@@ -2,7 +2,7 @@ import React, { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 import "./styles.css";
 
-import Game from "./Game.jsx";
+import Game from "./components/Game";
 
 const root = createRoot(document.getElementById("root"));
 root.render(
