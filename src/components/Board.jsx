@@ -31,13 +31,6 @@ const Board = ({ xIsNext, squares, onPlay }) => {
             </div>
         )
     })
-    // let squareList = [];
-    // for (let i = 0; i < 3; i++) {
-    //     for (let j = 0; j < 3; j++) {
-    //         const position = i * 3 + j;
-    //         squareList.push(<Square key={position} value={squares[position]} onSquareClick={() => handleClick(position)} win = {winSquares.includes(position)}/>);
-    //     }
-    // }
 
 
     return (
