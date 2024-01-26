@@ -1,9 +1,8 @@
 # React Tic-Tac-Toe
 
-![Tic-Tac-Toe](https://github.com/Hui-Ching-Chang/Tic-Tac-Toe/blob/main/tic-tac-toe.gif?raw=true)
-
 Welcome to my React Tic-Tac-Toe project. This simple engaging game is built using React, according to the official tutorial with some enhancement and a few additional features added. Showcasing my practice in front-end development. Enjoy the classic Tic-Tac-Toe game!
 
+![Tic-Tac-Toe](https://github.com/Hui-Ching-Chang/Tic-Tac-Toe/raw/main/tic-tac-toe.gif?raw=true)
 ## Features
 
 - **Interactive Gameplay:** Click to make your move, and the game board updates dynamically.
