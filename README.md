@@ -1,19 +1,42 @@
-<p align="center">
-  <a href="https://codesandbox.io">
-    <img src="https://codesandbox.io/static/img/banner.png?v=2" height="300px">
-  </a>
-</p>
+# React Tic-Tac-Toe
 
-&nbsp;
+![Tic-Tac-Toe](demo.gif)
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-153-orange.svg?style=flat-square)](#contributors-)
-[![CircleCI](https://circleci.com/gh/codesandbox/codesandbox-client.svg?style=svg)](https://circleci.com/gh/codesandbox/codesandbox-client)
-[![BrowserStack Status](https://www.browserstack.com/automate/badge.svg?badge_key=cVJuczlJWUtqWXhIbFN1ZjVQekF4NzNsd3phNEZRaGlWU0pHYVVkdGRFWT0tLXFtTVhaOWRySmN0ZG5QVDNDQ0g5Z0E9PQ==--79fe3eae4f149a400d396c9b12d3988f685785cf)](https://www.browserstack.com/automate/public-build/cVJuczlJWUtqWXhIbFN1ZjVQekF4NzNsd3phNEZRaGlWU0pHYVVkdGRFWT0tLXFtTVhaOWRySmN0ZG5QVDNDQ0g5Z0E9PQ==--79fe3eae4f149a400d396c9b12d3988f685785cf)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
-[![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg)](https://lerna.js.org/)
+Welcome to my React Tic-Tac-Toe project. This simple engaging game is built using React, according to official tutorial with a few additional features added. Showcasing my practice in front-end development. Enjoy the classic Tic-Tac-Toe game!
 
-An instantly ready, full-featured online IDE for web development on any device
-with a browser. Enabling you to start new projects quickly and prototype
-rapidly. With CodeSandbox, you can create web apps, experiment with code, test
-ideas, and share creations easily.
+## Features
+
+- **Interactive Gameplay:** Click to make your move, and the game board updates dynamically.
+- **Winner Declaration:** The game automatically declares the winner and highlights the winning combination.
+- **Game History:** Keep track of your moves and revisit previous game states.
+- **Time Travel:** Explore the game's history and jump back to any previous move.
+
+## How to Play
+
+1. Clone the repository: `git clone https://github.com/Hui-Ching-Chang/Tic-Tac-Toe.git`
+2. Navigate to the project folder: `cd Tic-Tac-Toe`
+3. Install dependencies: `npm install`
+4. Start the development server: `npm start`
+5. Open your browser and go to `http://localhost:3000`
+
+## Technologies Used
+
+- React
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+
+## Code Structure
+
+The project is organized into the following main components:
+
+- `Board`: Manages the game board and individual squares.
+- `Game`: Orchestrates the game flow, handles state, and determines the winner.
+- `Square`: Represents an individual square in the game grid.
+
+## Acknowledgments
+
+- Hat tip to the React team for providing an excellent library.
+- Inspired by the classic Tic-Tac-Toe game.
+
+Feel free to fork, modify, and enhance this project. Happy coding!
